@@ -12,7 +12,12 @@ This project demonstrates a **Game** and **Guess game** **Result game** screen b
 ## 📸 Screenshots
 
 ## Game Screen  ||  Signup Screen
-|<img src="(https://github.com/nagihanarabaci/NumberGuessingGame/blob/main/guess1screen.png)" alt="Guess Number Screen" width="200" height="400"/>| <img src="guess1screen.png" alt="Signup Screen" width="200" height="400"/>|
+|<img src="mainscreen.png" alt="Guess Number Screen" width="200" height="400"/>| <img src="guesssceen.png" alt="Signup Screen" width="200" height="400"/>|<img src="guess1screen.png" alt="Signup Screen" width="200" height="400"/>|<img src="guesscreen2.png" alt="Signup Screen" width="200" height="400"/>|<img src="winwinscreen.png" alt="Signup Screen" width="200" height="400"/>|<img src="gameoverscreen.png" alt="Signup Screen" width="200" height="400"/>|
+
+
+
+
+
 
 
 
