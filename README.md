@@ -1,4 +1,4 @@
-# Jetpack Compose Login and Signup UI
+# Jetpack Compose Guess Number UI
 
 This project demonstrates a **Game** and **Guess game** **Result game** screen built using **Jetpack Compose** in Android. It features a clean, modern UI with input fields, password toggles, and navigation transitions.
 
@@ -12,7 +12,7 @@ This project demonstrates a **Game** and **Guess game** **Result game** screen b
 ## 📸 Screenshots
 
 ## Game Screen  ||  Signup Screen
-|<img src="[screenshots/Screenshot_20250528_125242.png](https://github.com/nagihanarabaci/NumberGuessingGame/blob/main/guess1screen.png)" alt="Guess Number Screen" width="200" height="400"/>| <img src="screenshots/Screenshot_20250529_121539.png" alt="Signup Screen" width="200" height="400"/>|
+|<img src="(https://github.com/nagihanarabaci/NumberGuessingGame/blob/main/guess1screen.png)" alt="Guess Number Screen" width="200" height="400"/>| <img src="guess1screen.png" alt="Signup Screen" width="200" height="400"/>|
 
 
 
