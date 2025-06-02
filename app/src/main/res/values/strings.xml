@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberGuessingGame</string>
+    <string name="title_activity_win_game_page">WinGamePage</string>
+    <string name="title_activity_play_game_page">PlayGamePage</string>
+</resources>
